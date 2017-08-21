@@ -1,0 +1,9 @@
+# Echoes "hello" string
+# NAME: echo-hello
+
+echo "hello"
+
+# Echoes "world" string
+# NAME: echo-name
+
+echo "world"
