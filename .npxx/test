@@ -1,0 +1,9 @@
+# Run all test
+# NAME: test-all
+
+mocha .
+
+# Lint files using "eslint"
+# NAME: lint
+
+lint src
